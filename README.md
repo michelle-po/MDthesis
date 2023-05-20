@@ -19,3 +19,4 @@ For an easier usage, an additional "Zotero" library will be keeped externally.
   --> _"Good point of start, base for discover other detailed researches"_
 
 - **April 17/18**
+  -->list of terms/topics and their definition and 3 potential research questions at least 10 academic resources(articles, book chapters) about your topics, visuals about what you are interested in.
